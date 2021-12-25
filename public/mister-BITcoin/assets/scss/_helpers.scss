@@ -1,0 +1,134 @@
+// Font Sizes
+.fs12 {
+    font-size: rem(12px);
+}
+
+.fs14 {
+    font-size: rem(14px);
+}
+
+.fs18 {
+    font-size: rem(18px);
+}
+
+.fs20 {
+    font-size: rem(20px);
+}
+
+.fs24 {
+    font-size: rem(24px);
+}
+
+.fs28 {
+    font-size: rem(28px);
+}
+
+.fs30 {
+    font-size: rem(30px);
+}
+
+// flex helpers
+
+.flex {
+
+    display: flex;
+
+    >*.full {
+        flex: 1;
+    }
+
+    &.column {
+        flex-direction: column;
+    }
+
+    &.justify-center {
+        justify-content: center;
+    }
+
+    &.justify-space-between {
+        justify-content: space-between;
+    }
+
+    &.align-center {
+        align-items: center;
+    }
+}
+
+.clean-link {
+    // padding: inherit;
+    transition: inherit;
+    border-radius: inherit;
+    color: inherit;
+    text-decoration: none;
+}
+
+.clean-btn {
+    outline: none;
+    border: none;
+    cursor: pointer;
+    background-color: transparent;
+
+    &.hide {
+        visibility: hidden;
+    }
+}
+
+.clean-list {
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+}
+
+.blue-btn {
+    border-radius: 5px;
+    border: none;
+    font-family: "SourceSans-Light";
+    line-height: 1;
+    letter-spacing: 1px;
+    color: #fff;
+    background-color: #0065ff;
+    transition: background-color .15s ease-in-out;
+    text-align: center;
+    cursor: pointer;
+}
+
+.blue-btn:hover {
+    background-color: #065ee2;
+}
+
+.nav-option-header {
+    border-bottom: 1px solid rgba(9, 30, 66, .13);
+
+    h3 {
+        font-family: 'SourceSans-Light';
+        font-size: 1rem;
+        color: #a6a6a6;
+        margin-right: auto;
+        margin-left: auto;
+    }
+
+    button {
+        position: relative;
+        color: #a6a6a6;
+    }
+
+    .right-btn {
+        right: 6px;
+    }
+
+    .left-btn {
+        right: -6px;
+    }
+}
+
+// Media helpers
+
+// .square-ratio {
+//     @include aspect-ratio(1, 1);
+// }
+// .video-ratio {
+//     @include aspect-ratio(16, 9);
+// }
+// .portrait-ratio {
+//     @include aspect-ratio(9, 16);
+// }

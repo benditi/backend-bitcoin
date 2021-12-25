@@ -1,0 +1,192 @@
+[
+    {
+      "name": "Ochoa Hyde",
+      "email": "ochoahyde@renovize.com",
+      "password": "$2b$10$xRo92AxZgSe9sAkLq.tSl.lqhXNmEnC2Pgrsqs5PJ7amBhMfsY.gG",
+      "phone": "+1 (968) 593-3824",
+      "coins": 100,
+      "moves": [],
+      "myContacts": [],
+      "isAdmin": false
+    },
+    {
+      "name": "Hallie Mclean",
+      "password": "$2b$10$xRo92AxZgSe9sAkLq.tSl.lqhXNmEnC2Pgrsqs5PJ7amBhMfsY.gG",
+      "email": "halliemclean@renovize.com",
+      "phone": "+1 (948) 464-2888",
+      "coins": 100,
+      "moves": [],
+      "myContacts": [],
+      "isAdmin": false
+    },
+    {
+      "name": "Parsons Norris",
+      "password": "$2b$10$xRo92AxZgSe9sAkLq.tSl.lqhXNmEnC2Pgrsqs5PJ7amBhMfsY.gG",
+      "email": "parsonsnorris@renovize.com",
+      "phone": "+1 (958) 502-3495",
+      "coins": 100,
+      "moves": [],
+      "myContacts": [],
+      "isAdmin": false
+    },
+    {
+      "name": "Rachel Lowe",
+      "password": "$2b$10$xRo92AxZgSe9sAkLq.tSl.lqhXNmEnC2Pgrsqs5PJ7amBhMfsY.gG",
+      "email": "rachellowe@renovize.com",
+      "phone": "+1 (911) 475-2312",
+      "coins": 100,
+      "moves": [],
+      "myContacts": [],
+      "isAdmin": false
+    },
+    {
+      "name": "Dominique Soto",
+      "password": "$2b$10$xRo92AxZgSe9sAkLq.tSl.lqhXNmEnC2Pgrsqs5PJ7amBhMfsY.gG",
+      "email": "dominiquesoto@renovize.com",
+      "phone": "+1 (807) 551-3258",
+      "coins": 100,
+      "moves": [],
+      "myContacts": [],
+      "isAdmin": false
+    },
+    {
+      "name": "Shana Pope",
+      "password": "$2b$10$xRo92AxZgSe9sAkLq.tSl.lqhXNmEnC2Pgrsqs5PJ7amBhMfsY.gG",
+      "email": "shanapope@renovize.com",
+      "phone": "+1 (970) 527-3082",
+      "coins": 100,
+      "moves": [],
+      "myContacts": [],
+      "isAdmin": false
+    },
+    {
+      "name": "Faulkner Flores",
+      "password": "$2b$10$xRo92AxZgSe9sAkLq.tSl.lqhXNmEnC2Pgrsqs5PJ7amBhMfsY.gG",
+      "email": "faulknerflores@renovize.com",
+      "phone": "+1 (952) 501-2678",
+      "coins": 100,
+      "moves": [],
+      "myContacts": [],
+      "isAdmin": false
+    },
+    {
+      "name": "Holder Bean",
+      "password": "$2b$10$xRo92AxZgSe9sAkLq.tSl.lqhXNmEnC2Pgrsqs5PJ7amBhMfsY.gG",
+      "email": "holderbean@renovize.com",
+      "phone": "+1 (989) 503-2663",
+      "coins": 100,
+      "moves": [],
+      "myContacts": [],
+      "isAdmin": false
+    },
+    {
+      "name": "Rosanne Shelton",
+      "password": "$2b$10$xRo92AxZgSe9sAkLq.tSl.lqhXNmEnC2Pgrsqs5PJ7amBhMfsY.gG",
+      "email": "rosanneshelton@renovize.com",
+      "phone": "+1 (968) 454-3851",
+      "coins": 100,
+      "moves": [],
+      "myContacts": [],
+      "isAdmin": false
+    },
+    {
+      "name": "Pamela Nolan",
+      "password": "$2b$10$xRo92AxZgSe9sAkLq.tSl.lqhXNmEnC2Pgrsqs5PJ7amBhMfsY.gG",
+      "email": "pamelanolan@renovize.com",
+      "phone": "+1 (986) 545-2166",
+      "coins": 100,
+      "moves": [],
+      "myContacts": [],
+      "isAdmin": false
+    },
+    {
+      "name": "Roy Cantu",
+      "password": "$2b$10$xRo92AxZgSe9sAkLq.tSl.lqhXNmEnC2Pgrsqs5PJ7amBhMfsY.gG",
+      "email": "roycantu@renovize.com",
+      "phone": "+1 (929) 571-2295",
+      "coins": 100,
+      "moves": [],
+      "myContacts": [],
+      "isAdmin": false
+    },
+    {
+      "name": "Ollie Christian",
+      "password": "$2b$10$xRo92AxZgSe9sAkLq.tSl.lqhXNmEnC2Pgrsqs5PJ7amBhMfsY.gG",
+      "email": "olliechristian@renovize.com",
+      "phone": "+1 (977) 419-3550",
+      "coins": 100,
+      "moves": [],
+      "myContacts": [],
+      "isAdmin": false
+    },
+    {
+      "name": "Nguyen Walls",
+      "password": "$2b$10$xRo92AxZgSe9sAkLq.tSl.lqhXNmEnC2Pgrsqs5PJ7amBhMfsY.gG",
+      "email": "nguyenwalls@renovize.com",
+      "phone": "+1 (963) 471-3181",
+      "coins": 100,
+      "moves": [],
+      "myContacts": [],
+      "isAdmin": false
+    },
+    {
+      "name": "Glenna Santana",
+      "password": "$2b$10$xRo92AxZgSe9sAkLq.tSl.lqhXNmEnC2Pgrsqs5PJ7amBhMfsY.gG",
+      "email": "glennasantana@renovize.com",
+      "phone": "+1 (860) 467-2376",
+      "coins": 100,
+      "moves": [],
+      "myContacts": [],
+      "isAdmin": false
+    },
+    {
+      "name": "Malone Clark",
+      "password": "$2b$10$xRo92AxZgSe9sAkLq.tSl.lqhXNmEnC2Pgrsqs5PJ7amBhMfsY.gG",
+      "email": "maloneclark@renovize.com",
+      "phone": "+1 (818) 565-2557",
+      "coins": 100,
+      "moves": [],
+      "myContacts": [],
+      "isAdmin": false
+    },
+    {
+      "name": "Floyd Rutledge",
+      "password": "$2b$10$xRo92AxZgSe9sAkLq.tSl.lqhXNmEnC2Pgrsqs5PJ7amBhMfsY.gG",
+      "email": "floydrutledge@renovize.com",
+      "phone": "+1 (807) 597-3629",
+      "coins": 100,
+      "moves": [],
+      "myContacts": [],
+      "isAdmin": false
+    },
+    {
+      "name": "Grace James",
+      "password": "$2b$10$xRo92AxZgSe9sAkLq.tSl.lqhXNmEnC2Pgrsqs5PJ7amBhMfsY.gG",
+      "email": "gracejames@renovize.com",
+      "phone": "+1 (959) 525-2529",
+      "coins": 100,
+      "moves": [],
+      "myContacts": [],
+      "isAdmin": false
+    },
+    {
+      "name": "Tanner Gates",
+      "password": "$2b$10$xRo92AxZgSe9sAkLq.tSl.lqhXNmEnC2Pgrsqs5PJ7amBhMfsY.gG",
+      "email": "tannergates@renovize.com",
+      "phone": "+1 (978) 591-2291",
+      "coins": 100,
+      "moves": [],
+      "myContacts": [],
+      "isAdmin": false
+    },
+    {
+      "name": "Lilly Conner",
+      "password": "$2b$10$xRo92AxZgSe9sAkLq.tSl.lqhXNmEnC2Pgrsqs5PJ7amBhMfsY.gG",
+      "email": "lillyconner@renovize.com",
+      "phone": "+1 (842) 587-3812",
+      "coins": 100,
+      "moves": [],
+      "myContacts": [],
+      "isAdmin": false
+    }
+  ]
